@@ -1,0 +1,686 @@
+ [
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "NFxaKElARJOKRgUoYAHVBg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/NFxaKElARJOKRgUoYAHVBg",
+      "value": "You can't spell Love without L O, you can't spell is without I S, you can't spell SILO without LOIS. Chuck Norris"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "AZCXmffOQ7O1ixa3WEHdTg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/AZCXmffOQ7O1ixa3WEHdTg",
+      "value": "I dont know why people make Chuck Norris jokes. chuck is just a dick, and oh hey how did you g"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "wEmndQnfS3-8EAGrRTHrTA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/wEmndQnfS3-8EAGrRTHrTA",
+      "value": "If he wanted to, Chuck Norris could give himself a barium enema with his own dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "4e-gBFzHQD23ez_B-Bz1nA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/4e-gBFzHQD23ez_B-Bz1nA",
+      "value": "Chuck Norris where's a black belt around the beard that he grows on his dick"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "P3J2ohC2Q0yxmG5LK3ggPw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/P3J2ohC2Q0yxmG5LK3ggPw",
+      "value": "Chuck Norris invented the dickslap."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "x5whniztqdancooc9w-ggg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/x5whniztqdancooc9w-ggg",
+      "value": "Chuck Norris invented the bolt-action rifle, liquor, sexual intercourse, and football-- in that order."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "xJwO6LwdSj2GbkMBW7FGIA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/xJwO6LwdSj2GbkMBW7FGIA",
+      "value": "Chuck Norris has his dickprint on the Hollywood Walk Of Fame"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "8hbrtDUcRtOKxqay1qxGpw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/8hbrtDUcRtOKxqay1qxGpw",
+      "value": "Chuck Norris falcon punched Jonah Falcon for having such a tiny dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "eNdEZyq1T2WiaLtExyCz6Q",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/eNdEZyq1T2WiaLtExyCz6Q",
+      "value": "Chuck Norris can stand on his head. His dick-head."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "_n6ztutzSL-gyH1SQ2xafg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/_n6ztutzSL-gyH1SQ2xafg",
+      "value": "Chuck Norris can put you in a coma by slapping you in the face with his dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "8m37foMySNamkJYqFRnuvg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/8m37foMySNamkJYqFRnuvg",
+      "value": "Nuck Chorris seems to know a lot about Chuck Norris' dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "BL221V8TTnqOeZgK_p9W4g",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/BL221V8TTnqOeZgK_p9W4g",
+      "value": "Tell your mom and your friend's mom thanks for tongue massaging Chuck Norris' dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "5XQ7Aq6yRJeF976LbPNm8g",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/5XQ7Aq6yRJeF976LbPNm8g",
+      "value": "The Chuck Norris facts game is played out... And we should all stop contributing to this stupid shit! Unless your a dickless gamer that dwells on this Chuck Norris nonsense"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Q2ATBb9gSp2RcoS60SWRMw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/Q2ATBb9gSp2RcoS60SWRMw",
+      "value": "Chuck Norris once punched a shark in the dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "FB2v2MWQRhSvFq_uaxAbng",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/FB2v2MWQRhSvFq_uaxAbng",
+      "value": "Chuck Norris sells his dickfat to cosmetic surgeons as an alternative to collagen."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "16n13WDFQZGTISUdC8Ozyw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/16n13WDFQZGTISUdC8Ozyw",
+      "value": "Chuck Norris can cure PMS with his dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "pZW439doShq57q3gF-XtDw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/pZW439doShq57q3gF-XtDw",
+      "value": "Chuck Norris once played the clarinet during a concert while conducting the orchestra with his dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gs8GGfRfRAiMvmdeP2Mg9A",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/gs8GGfRfRAiMvmdeP2Mg9A",
+      "value": "The reason the slinky was invented is because there is no condom long enough for Chuck norris's dick. It failed miserablly now he has to were a live ratlle snake as one."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "K_JFovFsTRCxu0rWey7rGA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/K_JFovFsTRCxu0rWey7rGA",
+      "value": "There are two meanings for The Rock: 1) Professional wrestler Dwayne Johnson, and 2) Chuck Norris' dick."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "0NR490f3SiGlqn469rr7bw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/0NR490f3SiGlqn469rr7bw",
+      "value": "Chuck Norris does cock pushups for fun."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-_u-tucbQgaXioJiiqB-9Q",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/-_u-tucbQgaXioJiiqB-9Q",
+      "value": "Chuck Norris can suck cock without being gay."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "w6L_JOAYQa-jxfpKnPBMJg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/w6L_JOAYQa-jxfpKnPBMJg",
+      "value": "Chuck Norris can make love to 500 women a day, while destroying all of the cock block ninjas that get in his way."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "RX3L0rCGRc6pSCzghxzL3g",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/RX3L0rCGRc6pSCzghxzL3g",
+      "value": "Horses have long faces because they keep challenging Chuck Norris to \"whos got the biggest dick\" contests."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-NVPQKIeSk-BCQqD31vfiQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/-NVPQKIeSk-BCQqD31vfiQ",
+      "value": "Don't try Chuck Norris at home"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "J176L5q7TFyZESQOeIeyXw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/J176L5q7TFyZESQOeIeyXw",
+      "value": "When Chuck Norris get bitten by a zombie, Chuck Norris doesn't turn into a zombie, the zombie turns in to Chuck Norris."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "YuW99QyQRFGEYbqQp_TynA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/YuW99QyQRFGEYbqQp_TynA",
+      "value": "Helen Keller screamed Chuck Norris's name when she had sex."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "7w-LfoTwQNiNjIncQUsNIQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/7w-LfoTwQNiNjIncQUsNIQ",
+      "value": "Every-so-often Chuck Norris will cut a hole into a cement block and proceed to fuck it because he really enjoys \"rough sex\"."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-9D4NaUIQOO_8b1s7sJTKA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/-9D4NaUIQOO_8b1s7sJTKA",
+      "value": "If you get home from work and find Chuck Norris banging your wife, you should just go ahead and make a sandwich because Chuck Norris gets hungry after sex!"
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "nTefmxfYRYa7v7n_1936NA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/nTefmxfYRYa7v7n_1936NA",
+      "value": "Chuck Norris invented the male sex."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "zSHg9mMSQnKpyzNodYA8rA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/zSHg9mMSQnKpyzNodYA8rA",
+      "value": "Chuck Norris has to asexually reproduce due to the fact no woman would survive in bed with him."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "3EOemsGMSEKttDnddHyi9A",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/3EOemsGMSEKttDnddHyi9A",
+      "value": "Other than having experienced an actual sexual encounter with Chuck Norris, the only thing that can possibly match & satisfy women is a mail order device aptly called an Anal Intruder which exhibits a Roto Rooter twirling action."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yYAmRPoeSYKP2xu8jfx_BQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/yYAmRPoeSYKP2xu8jfx_BQ",
+      "value": "Chuck Norris answers the question of his metrosexuality by simply reaching his hand down the front of your pants and popping your balls like grapes."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "UqZU5KPAQy6foJ4cTvAoJA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/UqZU5KPAQy6foJ4cTvAoJA",
+      "value": "Chuck Norris had sexual relations with Monica Lewinsky. And Hillary. AT THE SAME TIME."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "t-fGDoDxRx6Njpy88Mi8uA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/t-fGDoDxRx6Njpy88Mi8uA",
+      "value": "If you ever find yourself screaming Chuck Norris' name during sex, then you must send a cheque of your life savings to him and immediately commit suicide."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ov5fl59UT-SgbxuP8LAreA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/ov5fl59UT-SgbxuP8LAreA",
+      "value": "Once, after chugging a gallon of Captain Morgan Rum, Chuck Norris french kissed a transexual frog. Nine month later, Chaz Bono was born."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "VEDOQuIsSI-2CAgq3-2DaQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/VEDOQuIsSI-2CAgq3-2DaQ",
+      "value": "Chuck Norris is all for same-sex marriage, as long as both chicks are hot."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "TWGXynOYQOK5N71KMyv2XA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/TWGXynOYQOK5N71KMyv2XA",
+      "value": "Cancer gets Chuck Norris."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gixH2ZhOQ-SsmwtrSJPdwQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/gixH2ZhOQ-SsmwtrSJPdwQ",
+      "value": "Chuck Norris did it with Kim kardashion so hard that she secretly grew a dick"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "iyigyr-fqi-cxllf6qnpag",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/iyigyr-fqi-cxllf6qnpag",
+      "value": "Chuck Norris keeps his friends close and his enemies closer. Close enough to drop them with one round house kick to the face."
+    },
+    {
+      "categories": ["explicit"],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "pOzwkIRkT9SXP_GCzrD2QQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/pOzwkIRkT9SXP_GCzrD2QQ",
+      "value": "Chuck Norris walked into a gay bar and came out with cindy crawford chuck gets the women anytime anywhere."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "bpfkn7NFQKydwgGK4hwvbA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/bpfkn7NFQKydwgGK4hwvbA",
+      "value": "Chuck Norris can copy/paste the text from a captcha."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gX5LgbBPRz2YPene2AZyrQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/gX5LgbBPRz2YPene2AZyrQ",
+      "value": "Chuck Norris's calendar goes from march 31 straight to april 2nd......because nobody fools Chuck Norris"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "WrRWYZGRQrik9_aPy8iyMw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/WrRWYZGRQrik9_aPy8iyMw",
+      "value": "Chuck Norris ate a 72lb steak in 60 minutes He spent the firs 55 fucking the waitress"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "BuNe7usbS7O-PLSypn93Fw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/BuNe7usbS7O-PLSypn93Fw",
+      "value": "Chuck Norris killed 37 terrorist with 2 bullets,the first was a warning shot!"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "YbOnk3uUQXO2XrSUAjVcLw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/YbOnk3uUQXO2XrSUAjVcLw",
+      "value": "Chuck Norris knows wat sign language sounds like."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "21bAvlfMRzmtpx38-kiFsw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/21bAvlfMRzmtpx38-kiFsw",
+      "value": "Chuck Norris can turn invisible by daring light to hit him."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "mSRa1SQRRwiIoN2JmnMV2g",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/mSRa1SQRRwiIoN2JmnMV2g",
+      "value": "Chuck Norris won the daytona 500 in a flintstone car"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "byzG0w0zSN6P8HeuIqWsiQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/byzG0w0zSN6P8HeuIqWsiQ",
+      "value": "Chuck Norris ass can make his farts sound like a beautiful symphony"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Hnp1mLMtRnSQ9T0c2yb_vQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/Hnp1mLMtRnSQ9T0c2yb_vQ",
+      "value": "Chuck Norris can jump rope with steel pipe. OH he also plays frisbee golf with discuss!"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "VvGL-lRHSsOL-jj9IEDWRA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/VvGL-lRHSsOL-jj9IEDWRA",
+      "value": "Chuck Norris doesn't beat people up he looks at them they get scared and fight their self to the death"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "oBanalmvRZeyddEvcwl22Q",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/oBanalmvRZeyddEvcwl22Q",
+      "value": "Chuck Norris once put a forest fire out by spitting on it."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "0UN54wYLRj66reR-l_J3og",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/0UN54wYLRj66reR-l_J3og",
+      "value": "Chuck Norris made helen kellers favorite color"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "ILP5gJ0JQyWvE6ZweUlR0A",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/ILP5gJ0JQyWvE6ZweUlR0A",
+      "value": "Chuck Norris built his home with his bare feet"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "LP1k_3DaR2Cy3J9n_Po9jQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/LP1k_3DaR2Cy3J9n_Po9jQ",
+      "value": "Chuck Norris says: Ima Firin Mah Lazor Shoop-de-woop yo ass"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "grihcfg8TcaEzBSF7w6gSQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/grihcfg8TcaEzBSF7w6gSQ",
+      "value": "Chuck Norris briefly lost his erection the other day, the destruction in chile was devastating"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "IjduYr3AQKin8kAhkZeh3Q",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/IjduYr3AQKin8kAhkZeh3Q",
+      "value": "Chuck Norris can litrely break a sweet"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "vnWkdAk7QT6z5eD8hEuuFg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/vnWkdAk7QT6z5eD8hEuuFg",
+      "value": "Chuck Norris has alredy been to Mars. This is why there is no signs of life there,"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "OkBzJPFjRIWRAEK9c8dw4A",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/OkBzJPFjRIWRAEK9c8dw4A",
+      "value": "Chuck Norris had his cake, and ate it too, then ate everyone elses"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "dTTp5uNlS8yUdStNuf43Hg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/dTTp5uNlS8yUdStNuf43Hg",
+      "value": "Chuck Norris doesn't use a cheese grater. He grates cheese with his beard"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "uo2sV4tdR5qLbwI60sN1Lg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/uo2sV4tdR5qLbwI60sN1Lg",
+      "value": "Chuck Norris lost his virginity before his dad did"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "dsCZ4chMSNG03LavTv_fGg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/dsCZ4chMSNG03LavTv_fGg",
+      "value": "Chuck Norris can watch TV...on his GameBoy..."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "zLV5Ys8FTNSNnBm7xBWAjg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/zLV5Ys8FTNSNnBm7xBWAjg",
+      "value": "Chuck Norris can play super mario on SEGA"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "dG_ZF-BPQG68peNTGqkjOg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/dG_ZF-BPQG68peNTGqkjOg",
+      "value": "Chuck Norris NEVER do things wrong."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "gcLofSWNSO-S0j1tU2gtoA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/gcLofSWNSO-S0j1tU2gtoA",
+      "value": "Chuck Norris once played golf with tiger woods and beat him! Not i golf though, he just beat tiger over the head mercilessly with his own sand wedge till he surrendered."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "whf-VGblQA26nyg27xBuRg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/whf-VGblQA26nyg27xBuRg",
+      "value": "Chuck Norris died and came and he decided to come back because after life was boring him"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "-S6QcnojTHiVXRMTTITIJg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/-S6QcnojTHiVXRMTTITIJg",
+      "value": "Chuck Norris can play a double-bass with his teeth."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Z4Kr-UukTl2XutloFvRZNA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/Z4Kr-UukTl2XutloFvRZNA",
+      "value": "Chuck Norris can execute a roundhouse kick in a telephone booth!"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "IIMG6ip3SgCwG3r2NjxRuA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/IIMG6ip3SgCwG3r2NjxRuA",
+      "value": "Chuck Norris doesn't need a gun he uses his farts to blow a hole in you"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Yd6m3GGcRIee1Qa-pALzvQ",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/Yd6m3GGcRIee1Qa-pALzvQ",
+      "value": "Chuck Norris once squeezed a m&m so hard that it became a skittle."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Uv3x-sj4SNidE21RPhzMjg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/Uv3x-sj4SNidE21RPhzMjg",
+      "value": "Chuck Norris fly fishes for whales."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "yS4xao0rS_eU8zuN6RsIxw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/yS4xao0rS_eU8zuN6RsIxw",
+      "value": "Chuck Norris doesnt use the force he is the force"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "Kh8sYODHRhqww9ndEhv9-Q",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/Kh8sYODHRhqww9ndEhv9-Q",
+      "value": "Chuck Norris barfes rainbows"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "IVNFBPFyTwKKIBxmXN69Nw",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/IVNFBPFyTwKKIBxmXN69Nw",
+      "value": "Chuck Norris shaves his balls with a chainsaw"
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "_HyMF0b6Rty9-5SXnnYG1Q",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/_HyMF0b6Rty9-5SXnnYG1Q",
+      "value": "Chuck Norris can cook fire."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "CKNpo28MSRSwnm7vfuMEtg",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/CKNpo28MSRSwnm7vfuMEtg",
+      "value": "Chuck Norris does not cast a shadow, light knows it cannot hit him and politely goes around."
+    },
+    {
+      "categories": [],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "e2ABbuB7SDa28KjyoEh4BA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/e2ABbuB7SDa28KjyoEh4BA",
+      "value": "Chuck Norris once gave his grandma a ball of steal wool and she knitted him a bmx.."
+    }
+  ]
